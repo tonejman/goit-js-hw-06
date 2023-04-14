@@ -1,5 +1,3 @@
-// 'use strict'
-
 const categoryItems = document.querySelectorAll('#categories li.item');
 const categoryNumbers = categoryItems.length;
 const categoryNames = categoryItems;
